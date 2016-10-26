@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jme3.light.LightFilterTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2016-10-26T14:13:06" hostname="Erwins-MacBook-Pro.local" time="0.005">
+  <properties/>
+  <testcase name="testAmbientFiltering" classname="com.jme3.light.LightFilterTest" time="0.002"/>
+  <testcase name="testDirectionalFiltering" classname="com.jme3.light.LightFilterTest" time="0.0"/>
+  <testcase name="testPointFiltering" classname="com.jme3.light.LightFilterTest" time="0.001"/>
+  <testcase name="testSpotFiltering" classname="com.jme3.light.LightFilterTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
